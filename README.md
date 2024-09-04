@@ -1,2 +1,2 @@
 # my-first-repo
-! Sarah sarah.jpg
+! [Sarah] sarah.jpg
